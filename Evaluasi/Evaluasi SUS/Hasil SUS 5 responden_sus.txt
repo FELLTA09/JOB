@@ -1,0 +1,49 @@
+Usability Testing Report - System Usability Scale (SUS)
+
+URL Aplikasi:
+https://panji-jobboard-xyz123.preview.app.github.dev
+
+Jumlah Responden: 5
+
+
+Responden1
+Jawaban: [4, 2, 5, 1, 4, 2, 5, 2, 5, 1]
+Adjusted Skor: [3, 3, 4, 4, 3, 3, 4, 3, 4, 4]
+Total Adjusted: 35
+SUS Score: 87.5
+
+Responden2
+Jawaban: [5, 2, 5, 1, 4, 1, 5, 1, 5, 1]
+Adjusted Skor: [4, 3, 4, 4, 3, 4, 4, 4, 4, 4]
+Total Adjusted: 38
+SUS Score: 95.0
+
+Responden 3
+Jawaban: [4, 3, 4, 2, 4, 2, 4, 2, 5, 2]
+Adjusted Skor: [3, 2, 3, 3, 3, 3, 3, 3, 4, 3]
+Total Adjusted: 30
+SUS Score: 75.0
+
+Responden 4
+Jawaban: [5, 1, 5, 1, 5, 1, 5, 1, 5, 1]
+Adjusted Skor: [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+Total Adjusted: 40
+SUS Score: 100.0
+
+Responden 5
+Jawaban: [3, 3, 4, 3, 3, 3, 4, 3, 4, 3]
+Adjusted Skor: [2, 2, 3, 2, 2, 2, 3, 2, 3, 2]
+Total Adjusted: 23
+SUS Score: 57.5
+
+Skor per Responden:
+  R1: 87.5
+  R2: 95.0
+  R3: 75.0
+  R4: 100.0
+  R5: 57.5
+
+Rata-rata Skor SUS: 83.0
+Interpretasi: Good
+
+Grafik visual disimpan sebagai: hasil_sus.png
