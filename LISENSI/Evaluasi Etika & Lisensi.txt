@@ -1,0 +1,32 @@
+Evaluasi Etika & Lisensi
+
+1. Identitas Proyek Asli
+- Repository Asli: [jonfriskics/Flask-Job-Board](https://github.com/jonfriskics/Flask-Job-Board)
+- Jenis Lisensi: MIT License
+- File Lisensi: Tersedia di akar repositori sebagai `LICENSE`
+
+2. Ringkasan MIT License
+MIT License adalah lisensi perangkat lunak bersifat permisif, artinya sangat fleksibel dan memberi kebebasan kepada siapa pun untuk:
+
+- ✅ Menggunakan kode untuk keperluan pribadi, akademik, maupun komersial.
+- ✅ Menyalin, memodifikasi, dan mendistribusikan kembali perangkat lunak.
+- ✅ Menggabungkan kode dengan proyek lain (bahkan proprietary/berbayar).
+- ❗ Syarat utamanya hanyalah: **tetap mencantumkan informasi lisensi MIT dan hak cipta asli** saat mendistribusikan ulang.
+
+3. Kompatibilitas dengan Perubahan
+Pengubahan yang saya lakukan terhadap repositori hasil fork sepenuhnya kompatibel dengan MIT License, karena:
+
+- File `LICENSE` tetap dipertahankan tanpa perubahan.
+- Tidak mengubah atau menghapus klaim hak cipta dari pengembang asli.
+- Penggunaan kode tetap bersifat terbuka (open), tanpa klaim eksklusivitas.
+- Semua kontribusi baru (seperti diagram, pengujian, dan dokumentasi) tetap mematuhi prinsip keterbukaan.
+
+4. Kesimpulan Etis
+Penggunaan ulang dan modifikasi repositori telah memenuhi etika pengembangan perangkat lunak, karena:
+
+- Mengikuti ketentuan lisensi asal (MIT)
+- Tidak mengambil kredit dari karya orang lain
+- Menambahkan dokumentasi dan hasil evaluasi baru tanpa menutupi kontribusi awal
+
+5. Catatan Tambahan
+Jika repositori ini nantinya akan digunakan untuk keperluan publik atau komersial, maka saya akan tetap mencantumkan lisensi MIT dan memberi kredit kepada pembuat asli (jonfriskics)
